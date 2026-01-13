@@ -37,9 +37,10 @@ body.offcanvas:before {
   opacity: 1;
 }
 
-body, .unslate_co--site-inner {
+
+/* body, .unslate_co--site-inner {
   background: #000;
-}
+} */
 
 ::-moz-selection {
   background: #000;
