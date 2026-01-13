@@ -8,6 +8,10 @@ body {
   position: relative;
 }
 
+.body-kalimani {
+  background-color: #2E482C;
+}
+
 body:before {
   content: "";
   position: absolute;
