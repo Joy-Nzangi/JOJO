@@ -8,9 +8,9 @@ body {
   position: relative;
 }
 
-.body-kalimani {
+/* .body-kalimani {
   background: #2E482C;
-}
+} */
 
 body:before {
   content: "";
@@ -38,9 +38,9 @@ body.offcanvas:before {
 }
 
 
-/* body, .unslate_co--site-inner {
+body, .unslate_co--site-inner {
   background: #000;
-} */
+}
 
 ::-moz-selection {
   background: #000;
